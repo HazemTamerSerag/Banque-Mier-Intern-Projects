@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile App</string>
+    <string name="name">Hazem</string>
+    <string name="job">Android Developer</string>
+    <string name="email">hazem.batman@gmail.com</string>
+    <string name="number">+01271669552</string>
+</resources>
